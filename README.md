@@ -12,7 +12,7 @@ The presentation shows how a **Junior QA / Manual Tester** can use browser DevTo
 
 The focus is on **practical testing scenarios**, not on development or coding.
 
-##📄 Presentation  
+## 📄 Presentation  
 PDF version: [DevTools-in-QA-Testing.pdf](DevTools-in-QA-Testing.pdf)
 
 
